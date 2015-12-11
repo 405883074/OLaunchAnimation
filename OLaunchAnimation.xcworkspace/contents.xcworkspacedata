@@ -4,4 +4,7 @@
    <FileRef
       location = "group:OLaunchPathology/OLaunchPathology.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:OLaunchNetEase/OLaunchNetEase.xcodeproj">
+   </FileRef>
 </Workspace>
