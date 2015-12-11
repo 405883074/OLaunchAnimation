@@ -7,4 +7,3 @@ OLaunchAnimation
 #### 介绍
  * 带广告启动页动画
  * 启动页动画
- 在demo包含详细的用法和实现
